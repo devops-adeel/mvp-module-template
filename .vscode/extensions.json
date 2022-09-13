@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+		"GitHub.vscode-pull-request-github",
+		"GitHub.remotehub",
+		"gruntfuggly.todo-tree",
+		"hashicorp.sentinel",
+		"hashicorp.terraform",
+		"ms-vscode.vscode-selfhost-test-provider"
+	]
+}
